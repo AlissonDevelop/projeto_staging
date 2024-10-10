@@ -1,1 +1,5 @@
-print(f"Mensagen de Douglas ->> Bom dia....."
+print(f"Mensagen de Douglas ->> Bom dia.....")
+
+print(f"Mensagen de Adriano ->> Palmeiras não tem Mundial.....")
+
+print(f"Mensagen de Alisson ->> É nóis.....")
